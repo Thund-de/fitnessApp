@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- to layer mulitple xml file on top of each other -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="2.7"
+            android:thicknessRatio="50.0"
+            android:useLevel="true">
+            <solid android:color="@color/colorPurple"/>
+        </shape>
+
+    </item>
+</layer-list>
