@@ -3,7 +3,7 @@
 * Sequenzdiagram:
 das obige Sequenzdiagramm könnte noch sehr viele Bearbeitungen gebrauchen. Ich bin nur die Hoffnung, dass ich es richtig verstanden habe. Man kann noch das THema mit Ihnen in der nächsten Übung durchgehen. 
 
-* Verlauf und Struktur der App
+* Process
 Aúfklärung im Textform was bis jetzt gemacht worden ist. Ich habe versucht alles was ich bis jetzt gemacht habe reinzuschreiben und auch zu erklären. Es war ein bisschen aufwändig, deswegen vlt findet man nicht alle Informationen drine. 
 
 
