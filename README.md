@@ -1,5 +1,5 @@
 # fitnessApp
 
 * Sequenzdiagram:
-das obige Sequenzdiagramm könnte noch sehr viele Bearbeitungen gebrauchen. 
+das obige Sequenzdiagramm benötigt noch weiter Bearbeitungen. 
 
